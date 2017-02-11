@@ -1,0 +1,8 @@
+[package]
+authors = ["Magnus Hoff <maghoff@gmail.com>"]
+name = "slog-slack"
+version = "0.1.0"
+
+[dependencies]
+slack-hook = "0.2.0"
+slog = "1.5.2"
